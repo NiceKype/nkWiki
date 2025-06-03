@@ -57,6 +57,7 @@ It has been adapted to be easy to install and configure, and articles can be wri
 - [ ] Contact form <sup>(A simple contact form)</sup>
 - [ ] Installer <sup>(A short installer script for automatic installation)</sup>
 - [ ] Settings Page <sup>(For setting colors, logos and more)</sup>
+- [ ] Internal articles <sup>(A option to set articles internal, that only logged in users can see it)</sup>
 
 <br>
 
