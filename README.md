@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="logo-large.png" style="height: 256px;">
+  <img src="assets/img/logo-large.png" style="height: 256px;">
 </p>
 
 <!-- MAIN INFORMATION -->
@@ -20,7 +20,7 @@
 <br>
 
 <!-- DESCRIPTION -->
-# <img src="logo.png" style="height: 25px;"> nkWiki - The PHP bases Wiki Tool
+# <img src="assets/img/logo.png" style="height: 25px;"> nkWiki - The PHP bases Wiki Tool
 The nkWiki tool is a PHP-based tool with easy installation and an admin control panel to take your wiki or documentation site articles to the next level.
 Unlike many other wiki tools, is this tool written in PHP and requires no complex installation. It runs independently of Docker or other services and requires only a web server and a MySQL or MariaDB database.
 It has been adapted to be easy to install and configure, and articles can be written and edited by internal and external users.
