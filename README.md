@@ -38,6 +38,8 @@ It has been adapted to be easy to install and configure, and articles can be wri
 - Action Logging - Log Viewer <sup>[ACP]</sup> (Various actions are logged and visible in the Log Viewer)
 - MySQL storage (All data such as accounts and logs are stored in a database, passwords are of course encrypted)
 - Config (All settings can be found in Config.php)
+- Bootstrap 5.3.3
+- Font Awesome 6.5.0
 
 <br>
 
