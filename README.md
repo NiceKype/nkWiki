@@ -66,3 +66,19 @@ It has been adapted to be easy to install and configure, and articles can be wri
 <!-- SUPPORT -->
 ## 》SUPPORT
 [![DiscordBanner](https://invidget.switchblade.xyz/242443392389349376?language=de)](https://discord.gg/nicekype)
+
+<br>
+
+> [!TIP]
+> You want a translation of the tool in your language and it's currently not available, then you can help us by request your language and submit a translation [HERE](https://crowdin.com/project/nkfoldermanager).
+
+**Status of the translation:**<br>
+[![translation status](https://badges.crowdin.net/nkwiki/localized.svg
+)](https://crowdin.com/project/nkwiki)
+[![en translation](https://img.shields.io/badge/en_US-100%25-blue?style=flat-square&logo=crowdin&label=en-US
+)](https://crowdin.com/project/nkwiki)
+[![de translation](https://img.shields.io/badge/dynamic/json?color=blue&label=de&style=flat-square&logo=crowdin&query=%24.progress.0.data.translationProgress&url=https%3A%2F%2Fbadges.awesome-crowdin.com%2Fstats-17199836-806482.json)](https://crowdin.com/project/nkwiki)
+[![es-ES translation](https://img.shields.io/badge/dynamic/json?color=blue&label=es-ES&style=flat-square&logo=crowdin&query=%24.progress.1.data.translationProgress&url=https%3A%2F%2Fbadges.awesome-crowdin.com%2Fstats-17199836-806482.json)](https://crowdin.com/project/nkwiki)
+[![fr translation](https://img.shields.io/badge/dynamic/json?color=blue&label=fr&style=flat-square&logo=crowdin&query=%24.progress.2.data.translationProgress&url=https%3A%2F%2Fbadges.awesome-crowdin.com%2Fstats-17199836-806482.json)](https://crowdin.com/project/nkwiki)
+[![it translation](https://img.shields.io/badge/dynamic/json?color=blue&label=it&style=flat-square&logo=crowdin&query=%24.progress.3.data.translationProgress&url=https%3A%2F%2Fbadges.awesome-crowdin.com%2Fstats-17199836-806482.json)](https://crowdin.com/project/nkwiki)
+[![nl translation](https://img.shields.io/badge/dynamic/json?color=blue&label=nl&style=flat-square&logo=crowdin&query=%24.progress.4.data.translationProgress&url=https%3A%2F%2Fbadges.awesome-crowdin.com%2Fstats-17199836-806482.json)](https://crowdin.com/project/nkfoldermanager)
